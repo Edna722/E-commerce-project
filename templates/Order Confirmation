@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Order Confirmation</title>
+</head>
+<body>
+    <h1>Order Confirmation</h1>
+    <h2>Thank you for your order!</h2>
+    <!-- Display order details here -->
+</body>
+</html>
